@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e47f9f71aec39304dabb0758ab3988bd, type: 3}
+  m_Name: OdeurCitron
+  m_EditorClassIdentifier: 
+  id: 0
+  nom: HE citron
+  attribut: signature od
+  valeur: citron
+  odeur: Sentez la fiole 1
