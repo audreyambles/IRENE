@@ -21,7 +21,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/Audrey Ambles/Documents/Outils visuel/ELISA V.0/WebGL Builds/envoi-test;C:/Users/Audrey Ambles/Documents/Outils visuel/ELISA V.0/WebGL Builds;D:/Silversigil/Dev/AngeAP;D:/Silversigil/Dev/AngeAD;D:/Silversigil/Dev/WebGLBuild;D:/Silversigil/Downloads/IndustriesComesBy/BUILD UDP/EclairageBuild;C:/Users/mis/Documents/Unity Projects/Build/Juillet WEBGL;C:/Users/mis/Documents/Unity Projects/MIS-Project-UDP/WebGL Builds;;\"}"
+                "value": "{\"m_Value\":\"C:/Users/Audrey Ambles/Documents/Outils visuel/IRENE/ItchIO;C:/Users/Audrey Ambles/Documents/Outils visuel/IRENE/BuildWEBGL;C:/Users/Audrey Ambles/Documents/Outils visuel/ELISA V.0/WebGL Builds/webGLTEST;C:/Users/Audrey Ambles/Documents/Outils visuel/ELISA V.0/WebGL Builds/envoi-test;C:/Users/Audrey Ambles/Documents/Outils visuel/ELISA V.0/WebGL Builds;D:/Silversigil/Dev/AngeAP;D:/Silversigil/Dev/AngeAD;D:/Silversigil/Dev/WebGLBuild;D:/Silversigil/Downloads/IndustriesComesBy/BUILD UDP/EclairageBuild;C:/Users/mis/Documents/Unity Projects/Build/Juillet WEBGL\"}"
             }
         ]
     }

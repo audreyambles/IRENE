@@ -10,6 +10,10 @@ TagManager:
   - Menu
   - BoutonActif
   - Dropdown
+  - Bouton
+  - Pivot
+  - Slider
+  - Zoom
   layers:
   - Default
   - TransparentFX

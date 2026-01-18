@@ -107,7 +107,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _Thickness: 0.0018
+    - _Thickness: 0.000594468
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
